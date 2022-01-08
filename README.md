@@ -4,7 +4,7 @@ A free and open source alternative to LinkTree!
 
 [Website](https://pegasus-coder.github.io/LinkFree/)
 
-<a href="https://www.tiktok.com/@air.head.guy"><img src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"></a>
+<a href="https://www.tiktok.com/@air.head.guy"><img src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" style="width:42px;height:42px;"></a>
 
 ## What is LinkFree?
 
